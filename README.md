@@ -24,5 +24,5 @@ The controls are the same as the defaults used on most emulators for NES control
 
 ## BUILD
 
-If you want to just try the result, I included a build in the release section. Download the zip file and double-click the exe file.
+If you would like to see the end result before having a look at the code, I've included a build in the release section. Download the zip file and double-click the exe file.
 
