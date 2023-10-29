@@ -8,7 +8,7 @@ With this project, I wanted to recreate a classic game from scratch using only C
 
 ## HOW TO PLAY
 
-The controls are the same as the defaults used on most Emulator for a NES controller.
+The controls are the same as the defaults used on most emulators for NES controllers.
 
 
 
